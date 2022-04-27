@@ -1,2 +1,2 @@
-# maksimkukshin.github.io
+# Максим Кукшин
 мой первый сайт
